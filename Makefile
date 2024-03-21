@@ -1,4 +1,4 @@
-# Makefile for floatbeatGL
+# Makefile for floatbeatGL 
 
 # Compiler
 CC = gcc
